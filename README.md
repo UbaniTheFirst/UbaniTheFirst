@@ -1,16 +1,16 @@
-# Hi there, I'm [Jesse]! 👋
+# Hi there, I'm Jesse! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Front-End Web Developer]** with experience in **[React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Front-End Web Developer** with experience in **React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[GraphQL, WebAssembly, and exploring more about server-side rendering (SSR) and static site generation (SSG) best practice.]**
-- 🔭 Working on: **[A personal portfolio revamp using Astro and also contributing to an open-source UI component library.]**
-- 🌍 Languages: **[JavaScript, TypeScript, Python (for scripting) and I speak English (Native)]**
-- 📫 How to reach me: **[ubanijesse@gmail.com]**
-- ⚡ Fun fact: **[I'm a die hard fan of Chealse Footbal Club!😁]**
+- 🌱 Currently learning: **GraphQL, WebAssembly, and exploring more about server-side rendering (SSR) and static site generation (SSG) best practices.**
+- 🔭 Working on: **A personal portfolio revamp using Astro and also contributing to an open-source UI component library.**
+- 🌍 Languages: **JavaScript, TypeScript, Python (for scripting), and I speak English (Native)**
+- 📫 How to reach me: **ubanijesse@gmail.com**
+- ⚡ Fun fact: **[I'm a die hard fan of Chealse Footbal Club!😁**
 
 ## My Skills 🧠
 
