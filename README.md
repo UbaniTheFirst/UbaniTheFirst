@@ -10,7 +10,7 @@ I'm a passionate **Front-End Web Developer** with experience in **React, Next.js
 - 🔭 Working on: **A personal portfolio revamp using Astro and also contributing to an open-source UI component library.**
 - 🌍 Languages: **JavaScript, TypeScript, Python (for scripting), and I speak English (Native)**
 - 📫 How to reach me: **ubanijesse@gmail.com**
-- ⚡ Fun fact: **[I'm a die hard fan of Chealse Footbal Club!😁**
+- ⚡ Fun fact: **I'm a die-hard fan of Chelsea Football Club!😁**
 
 ## My Skills 🧠
 
